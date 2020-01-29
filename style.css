@@ -1,0 +1,129 @@
+
+body{
+  background-color: MidnightBlue;
+}
+.start{
+  width: 100%;
+  height: 200px;
+  background-color: MidnightBlue;
+}
+.pubg{
+  position: relative;
+  top: 30px;
+  clear: both;
+  width: 100%;
+  text-align: center;
+}
+.text1{
+  color: DarkGoldenRod;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  width: 100%;
+  height: 100px;
+  position: relative;
+  top: 70px;
+
+}
+.user{
+  position: relative;
+  width: 100%;
+  height: 200px;
+  background-color: MidnightBlue;
+  top: 130px;
+}
+
+.one{
+  width: 33.33%;
+  height: 200px;
+  position: relative;
+  float: right;
+}
+
+.ins{
+  background-color: MidnightBlue;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  text-align: center;
+  position: relative;
+  left: 33%;
+  transition-duration: 1s;
+  border: solid 3px red;
+}
+.ins:hover{
+  background-color: green;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  text-align: center;
+  position: relative;
+  left: 33%;
+  transition-duration: 1s;
+}
+.ins:active{
+  background-color: grey;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  text-align: center;
+  position: relative;
+  left: 33%;
+}
+
+.text2{
+  color: DarkGoldenRod;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  width: 100%;
+  height: 100px;
+  position: relative;
+  top: 20px;
+}
+h2{
+  font-size: 70px;
+}
+.bg{
+  font-size: 40px;
+  position: relative;
+  top: 50px;
+  text-decoration: none;
+  color: red;
+}
+ul {
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  list-style-type: none;
+  position: relative;
+  top: 100px;
+}
+li {
+  background-color: #cea;
+  width: 33%;
+  float: left;
+  height: 350px;
+}
+.ggb{
+  width: 100%;
+  height: 350px;
+}
+
+.gb{
+  width: 100%;
+  height: 350px;
+}
+
+.bg{
+  width: 100%;
+  height: 350px;
+}
+
+h5{
+  font-size: 12px;
+}
+.look{
+  position: relative;
+  top: 50px;
+}
